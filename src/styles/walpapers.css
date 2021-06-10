@@ -1,0 +1,39 @@
+.suggestionsBox {
+  max-height: 60rem;
+  border-radius: 0.8rem;
+  position: absolute;
+  overflow: auto;
+  top: 65px;
+  width: 480px;
+  left: 40.3rem;
+  visibility: visible;
+  opacity: 1;
+  border: 1px solid rgb(207, 207, 207);
+  box-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
+  transition: opacity 0.25s ease 0s, top 0.25s ease 0s;
+  padding: 15px 0px;
+  background: white;
+  z-index: 1;
+}
+.suggestionsBox li {
+  display: flex;
+  position: relative;
+  background: rgb(255, 255, 255);
+  padding: 10px;
+  box-shadow: none;
+  width: 100%;
+}
+.suggestionsBox li:hover {
+  background: rgba(146, 146, 146, 0.329);
+  cursor: pointer;
+}
+.suggestionimage img {
+  height: 75px;
+  width: 130px;
+  left: 0px;
+  border-radius: 10px;
+}
+.suggestioninfo {
+  padding-left: 25px;
+  width: 100%;
+}

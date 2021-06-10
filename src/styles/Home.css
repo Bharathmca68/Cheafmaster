@@ -1,0 +1,131 @@
+.imagess {
+  background-image: linear-gradient(rgba(0.1, 0.1, 0.1, 0.1), black),
+    url(../Assets/1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 405px;
+  width: 100%;
+}
+.textheading {
+  height: 51px;
+  font-size: 40px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: white;
+  text-align: center;
+}
+.logo {
+  color: red;
+  font-size: 435%;
+  background-color: white;
+  border-radius: 50%;
+  width: 99px;
+  height: 99px;
+  text-align: center;
+  line-height: 1.51;
+  margin: auto;
+}
+.imagetext {
+  position: absolute;
+  top: 10%;
+  text-align: center;
+  width: 100%;
+}
+/* button */
+.btn {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 23;
+  font-weight: 500;
+  margin-top: 16px;
+}
+
+.loc {
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  width: 100%;
+  margin: auto;
+}
+.searchinput {
+  height: 50px;
+  width: 477px;
+  padding-left: 60px;
+  font-size: 16px;
+  border: none;
+  margin-left: 5px;
+  margin-top: 10px;
+  outline: none;
+}
+
+#location {
+  height: 50px;
+  width: 245px;
+  padding-left: 10px;
+  border: none;
+}
+.qsitems img {
+  width: 180px;
+  height: 160px;
+  border-top-left-radius: 10%;
+  border-bottom-left-radius: 10%;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+.quicksearch {
+  font-size: 35px;
+  color: #192f60;
+  font-weight: bold;
+}
+.subtext {
+  color: #8c96ab;
+  margin-bottom: 3%;
+}
+.qsitems {
+  width: 100%;
+  height: 160px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: white;
+  margin-bottom: 30px;
+  position: relative;
+  border-radius: 10%;
+}
+.qsdesc {
+  position: absolute;
+  top: 20px;
+  width: 120px;
+  left: 195px;
+}
+p {
+  width: 150px;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+  padding-left: 20px;
+}
+
+.texthead {
+  height: 25px;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  padding-left: 15px;
+}

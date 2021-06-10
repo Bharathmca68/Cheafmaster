@@ -1,0 +1,220 @@
+.images img {
+  max-height: 450px;
+}
+.restname {
+  width: 700px;
+  height: 43px;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.btn-D {
+  width: 223px;
+  height: 50px;
+  border-radius: 6px;
+  background-color: #ce0505;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.head {
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.infopara {
+  color: #ce0505;
+}
+.headinfo {
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.addinfo {
+  width: 359px;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+}
+.overviewHead {
+  font-size: 26px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.viewinfopara {
+  color: #192f60;
+  width: 100%;
+  padding-left: 3vh;
+}
+.react-tabs__tab {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  border: none;
+}
+
+.react-tabs__tab--selected {
+  border-bottom: solid 3px #ce0505;
+}
+
+.Menubox {
+  position: absolute;
+  inset: 40px;
+  border: 1px solid rgb(85, 80, 80);
+  background: rgb(255, 255, 255);
+  overflow: auto;
+  border-radius: 4px;
+  outline: none;
+  width: 550px;
+  padding: 20px;
+  transform: translate(35%, 2%);
+  top: 0%;
+  left: 20%;
+  height: 680px;
+  background-color: white;
+  color: black;
+  z-index: 22;
+  border-radius: 2%;
+}
+
+.rest_name {
+  width: 500px;
+  height: 43px;
+  margin: 4.5px 156px 40px 0;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+  margin-bottom: 10px;
+}
+.cancleaicon {
+  font-size: 16px;
+  color: red;
+  cursor: pointer;
+}
+.dish_Name {
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292c40;
+}
+.dish_price {
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292c40;
+}
+.dish_desc {
+  width: 45vh;
+  font-size: 13px;
+  margin-bottom: 15px;
+}
+.imgbox {
+  width: 10px;
+  height: 10px;
+  background-color: #192f60;
+}
+.addbox {
+  width: 30px;
+  height: 30px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  font-weight: bolder;
+  color: black;
+  border: none;
+  font-size: 20px;
+  position: absolute;
+  margin-top: -2vh;
+  cursor: pointer;
+  border-radius: 6%;
+}
+
+.menu_addbtn {
+  padding-top: 1vh;
+}
+.menubox {
+  width: 10vh;
+  height: 10vh;
+  background-color: #192f60;
+  top: 10px;
+  z-index: 100;
+  border-radius: 10%;
+  color: white;
+  padding-left: 34px;
+  padding-top: 25px;
+}
+.paynow {
+  width: 140px;
+  height: 50px;
+  border-radius: 6px;
+  background-color: #ce0505;
+}
+.price {
+  height: 31px;
+  font-size: 22px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #292c40;
+  margin-top: 10px;
+}
+.pay_box {
+  margin-top: 10vh;
+  background-color: #f5f8ff;
+  border-radius: 10%;
+}
+
+.loading img {
+  margin-top: 20%;
+}
